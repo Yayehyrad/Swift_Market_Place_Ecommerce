@@ -2,7 +2,7 @@
   display: flex;
   height: 100vh;
   background-image: linear-gradient(
-    to right bottom,
+    0deg,
     rgba(248, 250, 248, 0.8),
     rgba(177, 204, 246, 0.8)
   );
